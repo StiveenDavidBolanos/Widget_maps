@@ -10,6 +10,7 @@ class VendedoresMapsScreen extends StatelessWidget {
     final List<Location> locations = [
       Location(
           name: 'Vendedor 1',
+          info: 'Información del vendedor 1',
           markerId: '1',
           latIngX: 0.363214,
           latIngY: -78.112971),
