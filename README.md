@@ -1,3 +1,8 @@
-# maps_testing
+This is a proyect to test the GoogleMaps Widgets functions
 
-A new Flutter project.
+To run it you need a Google maps Api Key 
+You can follow this: 
+https://developers.google.com/maps/documentation/javascript/get-api-key?hl=es
+To get one
+
+Run pub get for Flutter and run
